@@ -98,7 +98,7 @@ body {
     display: flex;
     justify-content: center;
     gap: 16px;
-    width: 50%;
+    width: auto;
     text-align: center;
     border: 2px solid var(--cor-terciaria);
     border-radius: 8px;

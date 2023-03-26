@@ -117,6 +117,7 @@ body {
 .apresentacao__imagem {
     border-radius: 20px;
     width: 50%;
+    height: 50%;
 }
 
 
@@ -147,5 +148,10 @@ body {
 
     .apresentacao__conteudo{
         width: auto;
+    }
+
+    .apresentacao__imagem{
+        width: auto;
+        height: auto;
     }
 }
